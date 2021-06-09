@@ -6,5 +6,6 @@
 -   🌱 I’m currently learning JavaScript.
 -   👯 I’m looking to collaborate on web development projects.
 -   💬 Ask me about anything!
--   📫 How to reach me: ishitagairola777@gmail.com
+-   📫 How to reach me: * Gmail: ishitagairola777@gmail.com 
+                        * Linkedin: https://www.linkedin.com/in/ishita-gairola/
 -   ⚡ Fun fact: I love to reading, cycling! I am also an amazing cook :relaxed:
